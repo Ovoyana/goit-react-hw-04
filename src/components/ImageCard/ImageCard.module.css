@@ -1,0 +1,31 @@
+ .imageBox {
+    display: block;
+    width: 250px;
+  height: 200px;
+    object-fit: cover;
+} 
+
+/* .textWrapper {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: chocolate;
+    border: 1px solid brown;
+    border-top: none;
+    padding: 10px;
+}
+
+.about {
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1.2;
+    letter-spacing: 0.1em;
+}
+
+.position {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+} */ 

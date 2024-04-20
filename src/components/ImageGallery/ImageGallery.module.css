@@ -1,0 +1,23 @@
+/* .galleryBox {
+    padding: 0 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.gallery {
+    display: flex;
+    min-width: 1128px;
+  height: 792px;
+    flex-wrap: wrap;
+    list-style-type: none;
+    padding: 24px 35px;
+    margin: 0 auto;
+  row-gap: 10px;
+  column-gap: 10px;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.image {
+    margin-left: 20px;
+} */
