@@ -16,9 +16,9 @@ export default function SearchBar({ onSearch })
     return (
       <>
         <header className={css.searchHeader}>
-          <Formik initialValues={{ search: '' }} onSubmit={handleSubmit}>
+          <Formik className={css.wrapper} initialValues={{ search: '' }} onSubmit={handleSubmit}>
             <Form className={css.form}>
-              <Field className={css.searchField}
+              <Field className={css.search}
                 type="text"
                 name="search"
                 autoComplete="off"

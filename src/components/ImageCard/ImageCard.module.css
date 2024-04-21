@@ -1,13 +1,13 @@
- .imageBox {
+ .galleryImage {
     display: block;
-    width: 250px;
   height: 200px;
     object-fit: cover;
+    
 } 
 
-/* .textWrapper {
+.textWrapper {
     display: flex;
-    gap: 15px;
+    gap: 5px;
     align-items: center;
     justify-content: space-between;
     background-color: chocolate;
@@ -18,7 +18,7 @@
 
 .about {
     color: black;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: bold;
     line-height: 1.2;
     letter-spacing: 0.1em;
@@ -28,4 +28,4 @@
     display: flex;
     align-items: center;
     gap: 4px;
-} */ 
+} 

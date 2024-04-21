@@ -1,0 +1,21 @@
+.button {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+ .btn {
+    background-color: crimson;
+    border: none;
+    cursor: pointer;
+    padding: 8px 8px;
+    width:100px;
+    height: 50px;
+    border-radius: 10px;
+    outline: none;
+    color: black;
+  }
+  .btn:hover,
+  .btn.focus {
+    background-color: chartreuse;
+  }
+  

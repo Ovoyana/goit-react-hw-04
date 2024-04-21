@@ -1,8 +1,8 @@
 .message {
     text-align: center;
-    color: #212127;
+    color: red;
     font-size: 20px;
-    font-weight: 700;
+    font-weight:bold;
     line-height: 1.5;
     letter-spacing: .04em;
 }

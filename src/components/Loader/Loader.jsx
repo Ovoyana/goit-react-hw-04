@@ -7,8 +7,8 @@ export default function Loader ()  {
     <div className={css.wrapper}>
       <Vortex
   visible={true}
-  height="80"
-  width="80"
+  height="150"
+  width="150"
   ariaLabel="vortex-loading"
   wrapperStyle={{}}
   wrapperClass="vortex-wrapper"

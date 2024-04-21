@@ -17,7 +17,6 @@ export default function ImageModal ({ closeModal, isModalOpen, selectedImage })
   return (
     <div>
       <Modal
-        // overlayClassName={css.backdrop}
         isOpen={isModalOpen}
         onRequestClose={closeModal}
         style={customStyles}
